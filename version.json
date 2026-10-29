@@ -1,7 +1,7 @@
 {
-  "Version": "10",
-  "Name": "1.9",
+  "Version": "11",
+  "Name": "2.0",
   "Zip": "https://github.com/z3tbz/AZIZ-Tube/raw/main/AZIZ-Tube.zip",
-  "Sha256": "7fd2ed565b4ddaabf29c81d46af026de70a6fb65fdaa9541fdde76cddafad392",
-  "Notes": "ذاكرة ما تزيد مع تغيير الدقة"
+  "Sha256": "786ee3ea2b91559da11a811bbce87df2760bf80ea5079fc786bc3d8b08234f6e",
+  "Notes": "الترميز المعروض هو الشغال فعلًا"
 }
