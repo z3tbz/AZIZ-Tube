@@ -1,6 +1,7 @@
 {
-  "Version": "3",
+  "Version": "4",
+  "Name": "1.3",
   "Zip": "https://github.com/z3tbz/AZIZ-Tube/raw/main/AZIZ-Tube.zip",
-  "Sha256": "e15b6a60400838546fb92d47a0dab42fd287351576d812d861cb410f68d3d96b",
-  "Notes": "تحميل الفيديو بالقطع مثل المتصفح (توقف أقل في الجودات العالية)، و AV1 أولًا، وشعار البداية الجديد"
+  "Sha256": "fb749eac5c24e377684806a2680c96388e8e1c05bb7a3a90cc6b0c98628bf163",
+  "Notes": "Game Corner بدقات جديدة، فريمات حسب الدقة، وإعادة تشغيل تلقائية بعد التحديث"
 }
