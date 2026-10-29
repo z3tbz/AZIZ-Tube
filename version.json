@@ -1,7 +1,7 @@
 {
-  "Version": "7",
-  "Name": "1.6",
+  "Version": "8",
+  "Name": "1.7",
   "Zip": "https://github.com/z3tbz/AZIZ-Tube/raw/main/AZIZ-Tube.zip",
-  "Sha256": "1c73f77e11a6b42b7065291eb74a60a32fccd0f1d569ff13b7b8b19dab29e715",
-  "Notes": "ذاكرة أقل، مشغل أخف، ومعاينة شريط التقديم مصلحة"
+  "Sha256": "60dbadc8707e2e7c166569f964d679797402fab140443a3a37fbc439f4e94872",
+  "Notes": "جودة ترجع ترتفع بعد أي نزول، ذاكرة أقل"
 }
