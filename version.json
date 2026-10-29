@@ -1,7 +1,7 @@
 {
-  "Version": "9",
-  "Name": "1.8",
+  "Version": "10",
+  "Name": "1.9",
   "Zip": "https://github.com/z3tbz/AZIZ-Tube/raw/main/AZIZ-Tube.zip",
-  "Sha256": "6744ccb6f15150e89bc7ae087b74c7f73f691bf0ab8ee11854445bfe9b325b6b",
-  "Notes": "المشغل دايمًا على آخر نسخة مستقرة"
+  "Sha256": "7fd2ed565b4ddaabf29c81d46af026de70a6fb65fdaa9541fdde76cddafad392",
+  "Notes": "ذاكرة ما تزيد مع تغيير الدقة"
 }
