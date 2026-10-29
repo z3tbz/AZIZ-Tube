@@ -1,7 +1,7 @@
 {
-  "Version": "11",
-  "Name": "2.0",
+  "Version": "13",
+  "Name": "2.2",
   "Zip": "https://github.com/z3tbz/AZIZ-Tube/raw/main/AZIZ-Tube.zip",
-  "Sha256": "786ee3ea2b91559da11a811bbce87df2760bf80ea5079fc786bc3d8b08234f6e",
-  "Notes": "الترميز المعروض هو الشغال فعلًا"
+  "Sha256": "298c9ab965a9022765512fd6bf2cc8ac92eb62fd952bec92c4c4bcdc4f45f6de",
+  "Notes": "فتح المقاطع أسرع بكثير، VP9 يشتغل، وسؤال إعادة التشغيل بعد التحديث"
 }
