@@ -1,7 +1,7 @@
 {
-  "Version": "8",
-  "Name": "1.7",
+  "Version": "9",
+  "Name": "1.8",
   "Zip": "https://github.com/z3tbz/AZIZ-Tube/raw/main/AZIZ-Tube.zip",
-  "Sha256": "60dbadc8707e2e7c166569f964d679797402fab140443a3a37fbc439f4e94872",
-  "Notes": "جودة ترجع ترتفع بعد أي نزول، ذاكرة أقل"
+  "Sha256": "6744ccb6f15150e89bc7ae087b74c7f73f691bf0ab8ee11854445bfe9b325b6b",
+  "Notes": "المشغل دايمًا على آخر نسخة مستقرة"
 }
