@@ -1,10 +1,14 @@
 name: Release
 
-# A tag like v1.5 pushed: a release made from the installers in the release folder.
+# The installers in the release folder changed on main: a release made from them, named by release/VERSION (the tag is
+# made by the release itself). Can also be run by hand from the Actions tab.
 on:
   push:
-    tags:
-      - "v*"
+    branches:
+      - main
+    paths:
+      - "release/**"
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -18,9 +22,12 @@ jobs:
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
-          gh release create "$GITHUB_REF_NAME" \
+          TAG="$(tr -d '[:space:]' < release/VERSION)"
+          gh release delete "$TAG" --yes --cleanup-tag 2>/dev/null || true
+          gh release create "$TAG" \
             release/AZIZ-Tube-Full-Setup.exe \
             release/AZIZ-Tube-Setup.exe \
-            --title "AZIZ Tube ${GITHUB_REF_NAME#v}" \
+            --target "$GITHUB_SHA" \
+            --title "AZIZ Tube ${TAG#v}" \
             --notes-file release/NOTES.md \
             --latest
