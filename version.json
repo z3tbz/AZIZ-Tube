@@ -1,7 +1,7 @@
 {
-  "Version": "13",
-  "Name": "2.2",
+  "Version": "14",
+  "Name": "2.3",
   "Zip": "https://github.com/z3tbz/AZIZ-Tube/raw/main/AZIZ-Tube.zip",
-  "Sha256": "298c9ab965a9022765512fd6bf2cc8ac92eb62fd952bec92c4c4bcdc4f45f6de",
-  "Notes": "فتح المقاطع أسرع بكثير، VP9 يشتغل، وسؤال إعادة التشغيل بعد التحديث"
+  "Sha256": "cf1238388e668ffc6b22d4c46e8e83132777fc797c77746ca23bf0db9bb64f2f",
+  "Notes": "فتح أسرع، وما يعلق المقطع لو يوتيوب رفض صيغة"
 }
