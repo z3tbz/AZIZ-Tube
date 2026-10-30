@@ -1,7 +1,7 @@
 {
-  "Version": "23",
-  "Name": "3.2",
+  "Version": "24",
+  "Name": "3.3",
   "Zip": "https://github.com/z3tbz/AZIZ-Tube/raw/main/AZIZ-Tube.zip",
-  "Sha256": "f161a5e746a42745626a7effce746b75fac0fe2f5df06149e2f19ac6573ccb8e",
-  "Notes": "ذوقك في الإعدادات (أنديتك وقنواتك المفضلة واهتماماتك)، رئيسية أذكى، واللغة الإنجليزية"
+  "Sha256": "8b12aebea8fb12a9d51a0dbfe9f5778ec6dcd638b1e6f49da42cf8c9772f3bab",
+  "Notes": "أزرار النافذة يمين دايمًا، والشريط الأحمر من اليسار لليمين مثل يوتيوب"
 }
