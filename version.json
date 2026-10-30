@@ -1,7 +1,8 @@
 {
-  "Version": "33",
-  "Name": "4.2",
+  "Version": "34",
+  "Name": "4.3",
   "Zip": "https://github.com/z3tbz/AZIZ-Tube/raw/main/AZIZ-Tube.zip",
-  "Sha256": "61284bbb8002128cb431755341d6e2f417eb5f5753499424827a38dd6ff2b5c4",
-  "Notes": "تخطي المقدمة صار يلقاها بنفسه، ومعه خيار التخطي التلقائي"
+  "Sha256": "2d01805934f5a5558f3845a788e21896bfe25bde39323a89d53b18e95a2ac84f",
+  "Notes": "إصلاح Game Corner (الإيقاف، الشريط، السرعة) والصورة السوداء عند التكملة",
+  "Force": true
 }
