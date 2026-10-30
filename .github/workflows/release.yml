@@ -27,6 +27,7 @@ jobs:
           gh release create "$TAG" \
             release/AZIZ-Tube-Full-Setup.exe \
             release/AZIZ-Tube-Setup.exe \
+            release/AZIZ-Tube-Android.apk \
             --target "$GITHUB_SHA" \
             --title "AZIZ Tube ${TAG#v}" \
             --notes-file release/NOTES.md \
