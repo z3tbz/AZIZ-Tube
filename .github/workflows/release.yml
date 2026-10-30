@@ -28,6 +28,7 @@ jobs:
             release/AZIZ-Tube-Full-Setup.exe \
             release/AZIZ-Tube-Setup.exe \
             release/AZIZ-Tube-Android.apk \
+            release/AZIZ-Tube-Linux-x64.tar.gz \
             --target "$GITHUB_SHA" \
             --title "AZIZ Tube ${TAG#v}" \
             --notes-file release/NOTES.md \
