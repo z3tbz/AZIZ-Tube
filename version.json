@@ -1,7 +1,7 @@
 {
-  "Version": "31",
-  "Name": "4.0",
+  "Version": "32",
+  "Name": "4.1",
   "Zip": "https://github.com/z3tbz/AZIZ-Tube/raw/main/AZIZ-Tube.zip",
-  "Sha256": "c17dedb16661b182d81e1a02f44aca6e49e632eddbcb2771046c73dae8a94a25",
-  "Notes": "مخزن mpv بقيم مضبوطة على قد كل جودة"
+  "Sha256": "9a53e75ff66bcbe3b48157a002e34e0f7b9927f5380daf8e495d7c2c2291ca23",
+  "Notes": "مخزن mpv بنفس الوقت لكل جودة بحدود 1080p 50 و1440p 60 و4K 100، ودقيقة وقت اللعب"
 }
