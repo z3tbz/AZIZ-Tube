@@ -1,8 +1,8 @@
 {
-  "Version": "34",
-  "Name": "4.3",
+  "Version": "35",
+  "Name": "4.4",
   "Zip": "https://github.com/z3tbz/AZIZ-Tube/raw/main/AZIZ-Tube.zip",
-  "Sha256": "2d01805934f5a5558f3845a788e21896bfe25bde39323a89d53b18e95a2ac84f",
-  "Notes": "إصلاح Game Corner (الإيقاف، الشريط، السرعة) والصورة السوداء عند التكملة",
+  "Sha256": "2a74c6bc7c86ef68e5e5602d5eb4b1607b63b104381f63d857f17fe92cf79f6e",
+  "Notes": "الصورة ما تعلق عند تغيير الجودة",
   "Force": true
 }
