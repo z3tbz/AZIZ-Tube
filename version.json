@@ -1,8 +1,8 @@
 {
-  "Version": "38",
-  "Name": "4.7",
+  "Version": "39",
+  "Name": "4.8",
   "Zip": "https://github.com/z3tbz/AZIZ-Tube/raw/main/AZIZ-Tube.zip",
-  "Sha256": "dfeb3ceb363edabe3fb415f34b278efa743cf1f96ac36171add73752fda2c3dc",
-  "Notes": "Game Corner: الفيديو يبقى في الركن والتطبيق يعرض الشريط، والصوت متزامن",
+  "Sha256": "77f249d64b447f15e2c4c478abef096f05af8d4738203e650948fa4af3947b88",
+  "Notes": "فحص تزامن الصوت والصورة بس عند تغيّر وضع الفيديو",
   "Force": true
 }
