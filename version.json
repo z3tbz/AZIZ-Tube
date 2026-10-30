@@ -1,8 +1,8 @@
 {
-  "Version": "36",
-  "Name": "4.5",
+  "Version": "37",
+  "Name": "4.6",
   "Zip": "https://github.com/z3tbz/AZIZ-Tube/raw/main/AZIZ-Tube.zip",
-  "Sha256": "90497023e91a2f838b0fc2208acc1e294296094c5201ea0c846ed869168040f8",
-  "Notes": "تاريخ النشر في كل المقاطع، والصورة ما تطلع سوداء عند الرجوع",
+  "Sha256": "8bcc42764d43ecc3854fa526c94aa7423d5f78c6fa584e7b373a7febaeb923d5",
+  "Notes": "Game Corner يفهم الشاشتين",
   "Force": true
 }
