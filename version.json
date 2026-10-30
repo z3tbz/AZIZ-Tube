@@ -1,8 +1,8 @@
 {
-  "Version": "35",
-  "Name": "4.4",
+  "Version": "36",
+  "Name": "4.5",
   "Zip": "https://github.com/z3tbz/AZIZ-Tube/raw/main/AZIZ-Tube.zip",
-  "Sha256": "2a74c6bc7c86ef68e5e5602d5eb4b1607b63b104381f63d857f17fe92cf79f6e",
-  "Notes": "الصورة ما تعلق عند تغيير الجودة",
+  "Sha256": "90497023e91a2f838b0fc2208acc1e294296094c5201ea0c846ed869168040f8",
+  "Notes": "تاريخ النشر في كل المقاطع، والصورة ما تطلع سوداء عند الرجوع",
   "Force": true
 }
