@@ -1,7 +1,7 @@
 {
-  "Version": "17",
-  "Name": "2.6",
+  "Version": "18",
+  "Name": "2.7",
   "Zip": "https://github.com/z3tbz/AZIZ-Tube/raw/main/AZIZ-Tube.zip",
-  "Sha256": "53357ab84e7105d1377533cce42ff1e71e4c5b486e97303fb321c6e3be7efc53",
-  "Notes": "شريط التحكم ما يظهر فوق البرامج وقت الكورنر، والترميز الحالي دقيق"
+  "Sha256": "36936e433a2687268a319176eb53b10ad9a5693ac181a51a8f107f801df61231",
+  "Notes": "بدون وميض في ملء الشاشة، والصورة ترجع على طول"
 }
