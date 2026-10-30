@@ -1,7 +1,7 @@
 {
-  "Version": "30",
-  "Name": "3.9",
+  "Version": "31",
+  "Name": "4.0",
   "Zip": "https://github.com/z3tbz/AZIZ-Tube/raw/main/AZIZ-Tube.zip",
-  "Sha256": "7668d5ca8c366d803ea8ea372ef8bff33c9903e45f874bb79b3329caae63b07a",
-  "Notes": "مخزن mpv على قد الجودة: الجودات المنخفضة تاخذ رام أقل"
+  "Sha256": "c17dedb16661b182d81e1a02f44aca6e49e632eddbcb2771046c73dae8a94a25",
+  "Notes": "مخزن mpv بقيم مضبوطة على قد كل جودة"
 }
