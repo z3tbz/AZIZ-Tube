@@ -1,7 +1,7 @@
 {
-  "Version": "26",
-  "Name": "3.5",
+  "Version": "27",
+  "Name": "3.6",
   "Zip": "https://github.com/z3tbz/AZIZ-Tube/raw/main/AZIZ-Tube.zip",
-  "Sha256": "239aa3bc900f6f752127d5dd810c68764197e05422fb0d2aa2ce8c5223c0921e",
-  "Notes": "الصورة ترجع لحالها لو ما رجعت، وصور الرئيسية تتجهز بالخلفية"
+  "Sha256": "330c23c39cd03dfe8bf74ebbc7f2328ef734b8b3409b319f4e38cb4c7f78fe51",
+  "Notes": "السرعة تبقى مثل المكتوب، وقراءة فك الترميز حالية"
 }
