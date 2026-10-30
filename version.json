@@ -1,7 +1,7 @@
 {
-  "Version": "28",
-  "Name": "3.7",
+  "Version": "29",
+  "Name": "3.8",
   "Zip": "https://github.com/z3tbz/AZIZ-Tube/raw/main/AZIZ-Tube.zip",
-  "Sha256": "b0647d9ed0287f18084ccec506a9022b24368375f23820994de8984ad273718c",
-  "Notes": "mpv أخف بعد تغيير الجودة، وقياس استهلاكه في سجل الأخطاء"
+  "Sha256": "1700b677b4f8763a976ea359dbdf7d8c1e85e2b6d2db0a7e9beaacecea3dbd4b",
+  "Notes": "إصلاح خطأ في قراءة قوائم السلاسل"
 }
