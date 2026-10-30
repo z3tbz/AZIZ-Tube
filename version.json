@@ -1,8 +1,8 @@
 {
-  "Version": "39",
-  "Name": "4.8",
+  "Version": "40",
+  "Name": "4.9",
   "Zip": "https://github.com/z3tbz/AZIZ-Tube/raw/main/AZIZ-Tube.zip",
-  "Sha256": "77f249d64b447f15e2c4c478abef096f05af8d4738203e650948fa4af3947b88",
-  "Notes": "فحص تزامن الصوت والصورة بس عند تغيّر وضع الفيديو",
+  "Sha256": "23a91877d8bf2bb1e730cfa22db1d7b1c1fa7b2d96f80b2ce21383cb33d94a9d",
+  "Notes": "ما يتقطع على الكروت المشغولة، 30 إطار وقت اللعب، وإصلاحات من سجل الأخطاء",
   "Force": true
 }
