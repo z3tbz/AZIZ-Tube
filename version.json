@@ -1,7 +1,7 @@
 {
-  "Version": "32",
-  "Name": "4.1",
+  "Version": "33",
+  "Name": "4.2",
   "Zip": "https://github.com/z3tbz/AZIZ-Tube/raw/main/AZIZ-Tube.zip",
-  "Sha256": "9a53e75ff66bcbe3b48157a002e34e0f7b9927f5380daf8e495d7c2c2291ca23",
-  "Notes": "مخزن mpv بنفس الوقت لكل جودة بحدود 1080p 50 و1440p 60 و4K 100، ودقيقة وقت اللعب"
+  "Sha256": "61284bbb8002128cb431755341d6e2f417eb5f5753499424827a38dd6ff2b5c4",
+  "Notes": "تخطي المقدمة صار يلقاها بنفسه، ومعه خيار التخطي التلقائي"
 }
