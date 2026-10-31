@@ -1,8 +1,8 @@
 {
-  "Version": "43",
-  "Name": "5.2",
+  "Version": "44",
+  "Name": "5.3",
   "Zip": "https://github.com/z3tbz/AZIZ-Tube/raw/main/AZIZ-Tube.zip",
-  "Sha256": "94374da0698fc28faa75c6e3f56c49dede0e20d70678f6f00990c26ac3c32905",
-  "Notes": "الرجوع للمقطع ما يعيده من جديد ويعلق كل شوي",
+  "Sha256": "f27748d4e1820c3b7798662d5c2d1030ca33410f1aebbb3715e7d29676057868",
+  "Notes": "فحص الصورة فقط وقت الحاجة: الرجوع للمقطع، التصغير والتكبير، والتشغيل بعد الإيقاف",
   "Force": true
 }
