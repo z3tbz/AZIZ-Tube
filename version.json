@@ -1,8 +1,8 @@
 {
-  "Version": "42",
-  "Name": "5.1",
+  "Version": "43",
+  "Name": "5.2",
   "Zip": "https://github.com/z3tbz/AZIZ-Tube/raw/main/AZIZ-Tube.zip",
-  "Sha256": "a0bf50e84bedf3ee39c5d50bd3d357c78a79f9743844140411e3d8c78fdb95ea",
-  "Notes": "الصورة ما تصير سوداء لما يتصغر المقطع أو ترجع له، ومعاينة شريط التقدم فوق الشريط بالضبط",
+  "Sha256": "94374da0698fc28faa75c6e3f56c49dede0e20d70678f6f00990c26ac3c32905",
+  "Notes": "الرجوع للمقطع ما يعيده من جديد ويعلق كل شوي",
   "Force": true
 }
