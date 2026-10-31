@@ -1,8 +1,8 @@
 {
-  "Version": "46",
-  "Name": "5.5",
+  "Version": "47",
+  "Name": "5.6",
   "Zip": "https://github.com/z3tbz/AZIZ-Tube/raw/main/AZIZ-Tube.zip",
-  "Sha256": "79aafb533f37c68a970e6e5bbdb4d8ee068866c429520c6beeda0d79aeb1cf5a",
-  "Notes": "تقدر تختار من الإعدادات أي كرت يفك ويرسم الفيديو",
+  "Sha256": "ce3cc5358d0616231ea795d7718ebff34eec2e9f929fca0c1da378b38ff41483",
+  "Notes": "المقاطع من السجل و«أكمل المشاهدة» ما تبقى شاشة سوداء",
   "Force": true
 }
