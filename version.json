@@ -1,8 +1,8 @@
 {
-  "Version": "48",
-  "Name": "6.0",
+  "Version": "49",
+  "Name": "6.1",
   "Zip": "https://github.com/z3tbz/AZIZ-Tube/raw/main/AZIZ-Tube.zip",
-  "Sha256": "33cf5fa0116a1f4f7678fd731f1bec4051fc0133187a003c93e6d46a89c5d6bf",
-  "Notes": "ركن الألعاب بنافذة خاصة فيه، والرجوع للمقطع يبدأ نظيف من نفس الثانية: نهاية الشاشة السوداء والتعليق",
+  "Sha256": "8b832428d66afd14e6abf2248cf7390a3c70712fadd149058821c056642f806d",
+  "Notes": "وقت اللعب: القرص والذاكرة كمان للعبة أول",
   "Force": true
 }
