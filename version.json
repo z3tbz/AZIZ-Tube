@@ -1,8 +1,8 @@
 {
-  "Version": "47",
-  "Name": "5.6",
+  "Version": "48",
+  "Name": "6.0",
   "Zip": "https://github.com/z3tbz/AZIZ-Tube/raw/main/AZIZ-Tube.zip",
-  "Sha256": "ce3cc5358d0616231ea795d7718ebff34eec2e9f929fca0c1da378b38ff41483",
-  "Notes": "المقاطع من السجل و«أكمل المشاهدة» ما تبقى شاشة سوداء",
+  "Sha256": "33cf5fa0116a1f4f7678fd731f1bec4051fc0133187a003c93e6d46a89c5d6bf",
+  "Notes": "ركن الألعاب بنافذة خاصة فيه، والرجوع للمقطع يبدأ نظيف من نفس الثانية: نهاية الشاشة السوداء والتعليق",
   "Force": true
 }
