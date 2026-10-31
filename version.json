@@ -1,8 +1,8 @@
 {
-  "Version": "49",
-  "Name": "6.1",
+  "Version": "50",
+  "Name": "6.2",
   "Zip": "https://github.com/z3tbz/AZIZ-Tube/raw/main/AZIZ-Tube.zip",
-  "Sha256": "8b832428d66afd14e6abf2248cf7390a3c70712fadd149058821c056642f806d",
-  "Notes": "وقت اللعب: القرص والذاكرة كمان للعبة أول",
+  "Sha256": "41f816cc2a325b22c98696f72789354a666e2965a673822298a6d03d8e85a344",
+  "Notes": "الأولوية المنخفضة تبقى طول ما اللعبة شغالة، حتى لو طلعت منها لنافذة ثانية",
   "Force": true
 }
