@@ -1,8 +1,8 @@
 {
-  "Version": "51",
-  "Name": "6.3",
+  "Version": "52",
+  "Name": "6.4",
   "Zip": "https://github.com/z3tbz/AZIZ-Tube/raw/main/AZIZ-Tube.zip",
-  "Sha256": "f6648cc87fcc59dc409438952b2a9da138b82be14f03956b5b34f806753fe624",
-  "Notes": "yt-dlp بعد يرجع للخلف وقت اللعب: معالج وقرص وذاكرة",
+  "Sha256": "52dbb90a9e45270bad72ed129c2584d9ff262dbd7b4ddf676c167d01e9cfeac6",
+  "Notes": "التحكم بالمقطع وقت ركن الألعاب، التقديم يكمل التشغيل، وركن ألعاب أخف على اللعبة",
   "Force": true
 }
