@@ -1,8 +1,8 @@
 {
-  "Version": "45",
-  "Name": "5.4",
+  "Version": "46",
+  "Name": "5.5",
   "Zip": "https://github.com/z3tbz/AZIZ-Tube/raw/main/AZIZ-Tube.zip",
-  "Sha256": "21c6fec6153d0c1b745131c008d589205e0ea2e661a947cd3e4fddb640d1c948",
-  "Notes": "في اللابتوبات بكرتين: الفيديو يترسم على الكرت الموصول بالشاشة، فالصورة ما تتأخر عن الصوت",
+  "Sha256": "79aafb533f37c68a970e6e5bbdb4d8ee068866c429520c6beeda0d79aeb1cf5a",
+  "Notes": "تقدر تختار من الإعدادات أي كرت يفك ويرسم الفيديو",
   "Force": true
 }
