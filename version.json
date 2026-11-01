@@ -1,8 +1,8 @@
 {
-  "Version": "63",
-  "Name": "7.6",
+  "Version": "64",
+  "Name": "7.7",
   "Zip": "https://github.com/z3tbz/AZIZ-Tube/raw/main/AZIZ-Tube.zip",
-  "Sha256": "92ca1b6acd5a9eee8fc606bb9bf781cfaea117b6014a2dfdb36fd4c5cb1d4288",
-  "Notes": "طابور عرض أقصر، وحجز أقل في ذاكرة الكرت",
+  "Sha256": "49db7032f7b9144b62b5386e0641fedf7d2df1520bc7782a906393aa8dac6fef",
+  "Notes": "سجل الأخطاء يكتب سبب أي توقف للتطبيق",
   "Force": true
 }
