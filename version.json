@@ -1,8 +1,8 @@
 {
-  "Version": "55",
-  "Name": "6.7",
+  "Version": "56",
+  "Name": "6.8",
   "Zip": "https://github.com/z3tbz/AZIZ-Tube/raw/main/AZIZ-Tube.zip",
-  "Sha256": "df7268be62cbb348586337ce20b4f66b00bfcddf667e83401ade55f8fbaffe83",
-  "Notes": "شريط التحكم يختفي بعد 3 ثواني ونص، والمقطع الجديد يشتغل دايم، وتنبيه حالة اللعبة مع ركن الألعاب",
+  "Sha256": "3b0b046777726164452b99cef28a8010aad1f2757711d97b4b6282708bbec94e",
+  "Notes": "تواصل أخف وأذكى مع المشغّل: الوقت يُسأل بقدر الحاجة بدل كل إطار",
   "Force": true
 }
