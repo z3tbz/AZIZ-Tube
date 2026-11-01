@@ -1,8 +1,8 @@
 {
-  "Version": "66",
-  "Name": "7.9",
+  "Version": "67",
+  "Name": "8.0",
   "Zip": "https://github.com/z3tbz/AZIZ-Tube/raw/main/AZIZ-Tube.zip",
-  "Sha256": "34a1e76d8745fdef219d04a759719d59ebfbeb9b1f7025c6e189d317f5f58445",
-  "Notes": "القراءة السريعة ترجع كل تشغيل، ووضع اللعب يوقف بعد 10 دقايق من آخر مرة كانت اللعبة قدامك",
+  "Sha256": "61d9bbf932611bd08f134ffdcee304851cd6f5d77a4e84d023a2668ae2152026",
+  "Notes": "صوت Opus أنقى، وسجل أخطاء أوضح",
   "Force": true
 }
