@@ -1,8 +1,8 @@
 {
-  "Version": "61",
-  "Name": "7.4",
+  "Version": "62",
+  "Name": "7.5",
   "Zip": "https://github.com/z3tbz/AZIZ-Tube/raw/main/AZIZ-Tube.zip",
-  "Sha256": "8b645337d485b4a2b1f2ec4c24c2ce3ab255543785ec7ecd224b045d0a62ec46",
-  "Notes": "الركن: اختصارات للحجم والمكان، شفافية، خفض الصوت مع ديسكورد، تحميل أهدأ وقت اللعب",
+  "Sha256": "f1e204078ae9f464b8951408f52ef483b7cdd57327e77858fdea75b8cdcc2deb",
+  "Notes": "إصلاح تقطيع الصورة",
   "Force": true
 }
