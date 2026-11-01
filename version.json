@@ -1,8 +1,8 @@
 {
-  "Version": "67",
-  "Name": "8.0",
+  "Version": "68",
+  "Name": "8.1",
   "Zip": "https://github.com/z3tbz/AZIZ-Tube/raw/main/AZIZ-Tube.zip",
-  "Sha256": "61d9bbf932611bd08f134ffdcee304851cd6f5d77a4e84d023a2668ae2152026",
-  "Notes": "صوت Opus أنقى، وسجل أخطاء أوضح",
+  "Sha256": "8c2920a648e3a758fda252fd3f94f6deb514860a7c2141d9211eac4e743f29ea",
+  "Notes": "اكتشاف ألعاب أذكى: ما يحسب البرامج واللانشرات ألعاب",
   "Force": true
 }
