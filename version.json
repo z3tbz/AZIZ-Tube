@@ -1,8 +1,8 @@
 {
-  "Version": "64",
-  "Name": "7.7",
+  "Version": "65",
+  "Name": "7.8",
   "Zip": "https://github.com/z3tbz/AZIZ-Tube/raw/main/AZIZ-Tube.zip",
-  "Sha256": "49db7032f7b9144b62b5386e0641fedf7d2df1520bc7782a906393aa8dac6fef",
-  "Notes": "سجل الأخطاء يكتب سبب أي توقف للتطبيق",
+  "Sha256": "67aca652f071d11080393b907ff119f1e1676b3849972037f2f2eb100f491cba",
+  "Notes": "إصلاحات: الصوت، اللانشرات، أيقونة الساعة، فتح التطبيق مرتين",
   "Force": true
 }
