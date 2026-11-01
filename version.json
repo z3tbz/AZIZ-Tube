@@ -1,8 +1,8 @@
 {
-  "Version": "60",
-  "Name": "7.3",
+  "Version": "61",
+  "Name": "7.4",
   "Zip": "https://github.com/z3tbz/AZIZ-Tube/raw/main/AZIZ-Tube.zip",
-  "Sha256": "1aec1a8026bb5927b8b16846eb5d1b3d6b33363e5180ca0e41125b1fc2556f6f",
-  "Notes": "الركن: 30 إطار ثابتة ومتساوية، أخف على فريمات اللعبة",
+  "Sha256": "8b645337d485b4a2b1f2ec4c24c2ce3ab255543785ec7ecd224b045d0a62ec46",
+  "Notes": "الركن: اختصارات للحجم والمكان، شفافية، خفض الصوت مع ديسكورد، تحميل أهدأ وقت اللعب",
   "Force": true
 }
