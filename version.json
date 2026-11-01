@@ -1,8 +1,8 @@
 {
-  "Version": "58",
-  "Name": "7.1",
+  "Version": "59",
+  "Name": "7.2",
   "Zip": "https://github.com/z3tbz/AZIZ-Tube/raw/main/AZIZ-Tube.zip",
-  "Sha256": "5160eab3adb27ee8318c5f9e371391313d39229f22bee0502a1e7700df295141",
-  "Notes": "الركن في نافذة مستقلة للمشغّل، واختصارات اللعبة تشتغل أضمن، وتغيير الجودة وقت اللعب بدون إعادة تشغيل",
+  "Sha256": "220a5e7b007462cc3fd79d49ccb96d302250c7887e1fbcf4e36724222457c9e6",
+  "Notes": "mpv والتطبيق أخف على الرام والمعالج",
   "Force": true
 }
