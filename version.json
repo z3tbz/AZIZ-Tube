@@ -1,8 +1,8 @@
 {
-  "Version": "53",
-  "Name": "6.5",
+  "Version": "54",
+  "Name": "6.6",
   "Zip": "https://github.com/z3tbz/AZIZ-Tube/raw/main/AZIZ-Tube.zip",
-  "Sha256": "9db577be4f8a36ac7cdd8715839648f5736f0e622d8b619443efc53d0b1448cd",
-  "Notes": "ركن الألعاب مهيأ لطبقة عرض مستقلة (MPO) فوق اللعبة",
+  "Sha256": "70cb7c65e317c56b32731b24e7823d3077dd8dae12ecbb6a19d51e3fe6ba858e",
+  "Notes": "ركن الألعاب على كرت شاشة اللعبة نفسها، ووقت شريط التقدم صحيح، وسجل أوضح للركن",
   "Force": true
 }
