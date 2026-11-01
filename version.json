@@ -1,8 +1,8 @@
 {
-  "Version": "56",
-  "Name": "6.8",
+  "Version": "57",
+  "Name": "7.0",
   "Zip": "https://github.com/z3tbz/AZIZ-Tube/raw/main/AZIZ-Tube.zip",
-  "Sha256": "3b0b046777726164452b99cef28a8010aad1f2757711d97b4b6282708bbec94e",
-  "Notes": "تواصل أخف وأذكى مع المشغّل: الوقت يُسأل بقدر الحاجة بدل كل إطار",
+  "Sha256": "c211197a24e4a7e1d8d9e6414101edc3a79fdfb2e5ec1cdbb3e85d96e5f50a2e",
+  "Notes": "ركن ألعاب أهدى على اللعبة، وتواصل أخف مع المشغّل، وإعداد ويندوز للركن",
   "Force": true
 }
