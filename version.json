@@ -1,8 +1,8 @@
 {
-  "Version": "68",
-  "Name": "8.1",
+  "Version": "69",
+  "Name": "8.2",
   "Zip": "https://github.com/z3tbz/AZIZ-Tube/raw/main/AZIZ-Tube.zip",
-  "Sha256": "8c2920a648e3a758fda252fd3f94f6deb514860a7c2141d9211eac4e743f29ea",
-  "Notes": "اكتشاف ألعاب أذكى: ما يحسب البرامج واللانشرات ألعاب",
+  "Sha256": "e075da1796b1e6b2755f36f591855e5461d3166d3d8f7e22966a155e964dd56f",
+  "Notes": "قياس نعومة الصورة في السجل",
   "Force": true
 }
