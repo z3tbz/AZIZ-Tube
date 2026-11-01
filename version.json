@@ -1,8 +1,8 @@
 {
-  "Version": "62",
-  "Name": "7.5",
+  "Version": "63",
+  "Name": "7.6",
   "Zip": "https://github.com/z3tbz/AZIZ-Tube/raw/main/AZIZ-Tube.zip",
-  "Sha256": "f1e204078ae9f464b8951408f52ef483b7cdd57327e77858fdea75b8cdcc2deb",
-  "Notes": "إصلاح تقطيع الصورة",
+  "Sha256": "92ca1b6acd5a9eee8fc606bb9bf781cfaea117b6014a2dfdb36fd4c5cb1d4288",
+  "Notes": "طابور عرض أقصر، وحجز أقل في ذاكرة الكرت",
   "Force": true
 }
