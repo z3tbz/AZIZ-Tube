@@ -1,8 +1,8 @@
 {
-  "Version": "69",
-  "Name": "8.2",
+  "Version": "70",
+  "Name": "8.3",
   "Zip": "https://github.com/z3tbz/AZIZ-Tube/raw/main/AZIZ-Tube.zip",
-  "Sha256": "e075da1796b1e6b2755f36f591855e5461d3166d3d8f7e22966a155e964dd56f",
-  "Notes": "قياس نعومة الصورة في السجل",
+  "Sha256": "e2c30a0dcc1ad5a3bb0285ee67ff05f9075dfbe08d085d34769a4989ff25d38a",
+  "Notes": "ركن الألعاب أخف ويبقى مفتوح مع Alt+Tab، وإصلاح «عرض المزيد» وتغيّر الصوت بعجلة الماوس",
   "Force": true
 }
